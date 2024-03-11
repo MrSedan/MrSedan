@@ -17,6 +17,6 @@
 ---
 ## Visit counter
 
-![mrsedan](https://count.getloli.com/get/@mrsedan)
+![mrsedan](https://count.getloli.com/get/@mrsedan?theme=gelbooru)
 
 ---
