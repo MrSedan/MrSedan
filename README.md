@@ -15,6 +15,8 @@
 ### You can see my skills and contact information on my [GitHub pages business card site](https://mrsedan.github.io)!
 
 ---
-[![](https://komarev.com/ghpvc/?username=mrsedan&style=for-the-badge)](https://mrsedan.github.io)
+## Visit counter
+
+![:mrsedan](https://count.getloli.com/get/@:mrsedan)
 
 ---
