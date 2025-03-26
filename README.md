@@ -3,8 +3,6 @@
 # Hello, I'm Sergey Elpashev
 ## Developer
 
-![Sergey Elpashev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsedan&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsedan&hide=kotlin&layout=compact&theme=transparent)
 </div>
 
